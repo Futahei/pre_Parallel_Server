@@ -1,4 +1,4 @@
-{
+g
   "name": "parallel",
   "version": "0.0.1",
   "description": "OML AR",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Futahei/test.git"
   },
-  "author": "",
+  "author": "Futahei",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Futahei/test/issues"
